@@ -3,6 +3,7 @@
 a{text-decoration:none; }
 a:hover{text-decoration:none;}
  li {list-style:none;}
+//paragraph
  p{
      font-size:0.9rem;
      line-height:1.6;
